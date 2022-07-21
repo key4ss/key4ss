@@ -3,7 +3,7 @@
 <p align="center">
 <a href="mailto:key4ssnaver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=key4ss@naver.com"/></a>&nbsp
 <a href="https://www.instagram.com/__key.95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-<a href="https://blog.naver.com/key4ss/"><img src="https://img.shields.io/badge/Storyblok-09B3AF?style=flat-square&logo=Storyblok&logoColor=white&link=https://blog.naver.com/key4ss/"/></a>&nbsp
+<a href="https://blog.naver.com/key4ss/"><img src="https://img.shields.io/badge/NaverBlog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white&link=https://blog.naver.com/key4ss/"/></a>&nbsp
 </p>
 
 <p align="center">
